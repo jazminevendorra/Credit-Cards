@@ -1,6 +1,4 @@
 /*
-	Jazmin Even Dorra
-
 	creditCards.cpp
 
 	Load the list of credit card numbers.
